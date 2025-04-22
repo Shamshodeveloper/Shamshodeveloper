@@ -34,10 +34,10 @@
   </a>
 <!--   <a href="https://youtube.com/@ShamshodYouTube" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:shamshodwebdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a> -->
+  <a href="mailto:shamshodshohmerov0515@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a> 
   <a href="https://shamshodportfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white" />
   </a>
